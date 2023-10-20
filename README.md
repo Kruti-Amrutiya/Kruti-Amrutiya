@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![@krutiamrutiya's Holopin board](https://holopin.io/api/user/board?user=krutiamrutiya)](https://holopin.io/@krutiamrutiya)
+[![@krutiamrutiya's Holopin board](https://holopin.io/api/user/board?user=krutiamrutiya)](https://holopin.io/@krutiamrutiya#badges)
 
 <!--
 **Kruti-Amrutiya/Kruti-Amrutiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
