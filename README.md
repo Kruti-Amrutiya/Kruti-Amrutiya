@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://www.holopin.io/@krutiamrutiya#badges
+
 <!--
 **Kruti-Amrutiya/Kruti-Amrutiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
