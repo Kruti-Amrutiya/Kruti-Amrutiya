@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hi there 👋 I'm Kruti Amrutiya  
 
 [![An image of @krutiamrutiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krutiamrutiya)](https://holopin.io/@krutiamrutiya)
 
@@ -6,22 +6,20 @@
 
 ### 🚀 About Me  
 
-- 🔭 I’m currently working in the **React department**  
-- 🌱 I’m currently exploring **advanced web development**  
-- 👯 I’m looking to collaborate on **React, Next.js, and Full-Stack projects**  
-- 🤔 I’m looking for help with **performance optimization in large-scale applications**  
+- 🔭 Currently working in the **React department**  
+- 🌱 Exploring **advanced web development**  
 - 💬 Ask me about **Frontend, Backend, and Databases**  
 - ⚡ Fun fact: **Turning caffeine into code ☕💻**  
 
 ---
 
-### 📫 How to Reach Me  
+### 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kruti_Amrutiya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kruti-amrutiya-5a4a9315b/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kruti_Amrutiya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kruti-amrutiya-5a4a9315b/)
 
 ---
 
-### 🛠️ Languages and Tools  
+### 🛠️ Tech Stack  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -42,21 +40,11 @@
 
 ---
 
-### 🌟 GitHub Stats  
+### 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrutiAmrutiya&layout=compact)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrutiAmrutiya&show_icons=true&theme=radical)  
-
-![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=KrutiAmrutiya)  
-
----
-
-### 🏆 Contributions  
-
-| 🏆 Badge | 🏅 Stats |
-|----------|---------|
-| ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrutiAmrutiya&theme=radical) | ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KrutiAmrutiya&theme=radical&utcOffset=8) |
-| ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrutiAmrutiya&theme=radical) | ![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrutiAmrutiya&theme=radical) |
+| 🔥 GitHub Activity | 🏆 Contributions |
+|--------------------|----------------|
+| ![Total Commits](https://github-readme-stats.vercel.app/api?username=KrutiAmrutiya&show_icons=true&include_all_commits=true&count_private=true&theme=radical) | ![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=KrutiAmrutiya&theme=radical) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrutiAmrutiya&layout=compact&theme=radical) | ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrutiAmrutiya&theme=radical) |
 
 ---
